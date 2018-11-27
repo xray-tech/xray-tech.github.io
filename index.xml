@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xorc.io - home of the Xray Orchestration Platform</title>
+    <link>/</link>
+    <description>Recent content on Xorc.io - home of the Xray Orchestration Platform</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jul 2018 18:23:33 +0600</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FRANCAIS Blog</title>
+      <link>/blog/_index.fr/</link>
+      <pubDate>Sat, 07 Jul 2018 18:23:33 +0600</pubDate>
+      
+      <guid>/blog/_index.fr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FRANCAIS Contactez Nous</title>
+      <link>/contact/_index.fr/</link>
+      <pubDate>Sat, 07 Jul 2018 15:53:27 +0600</pubDate>
+      
+      <guid>/contact/_index.fr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A propos de nous ...</title>
+      <link>/about/_index.fr/</link>
+      <pubDate>Sat, 07 Jul 2018 12:37:52 +0600</pubDate>
+      
+      <guid>/about/_index.fr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
