@@ -3,48 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/</loc>
+    <loc>https://xorc.io/know_more/</loc>
+    <lastmod>2019-02-03T10:27:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xorc.io/contact/</loc>
     <lastmod>2018-11-18T16:45:30+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/_index.fr/</loc>
+    <loc>https://xorc.io/about/</loc>
     <lastmod>2018-11-18T16:45:30+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/contact/</loc>
-    <lastmod>2018-11-18T16:45:30+01:00</lastmod>
+    <loc>https://xorc.io/know_more/know_more1/</loc>
+    <lastmod>2019-02-03T21:13:53+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/contact/_index.fr/</loc>
-    <lastmod>2018-11-18T16:45:30+01:00</lastmod>
+    <loc>https://xorc.io/know_more/know_more2/</loc>
+    <lastmod>2019-02-03T21:13:53+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/_index.fr/</loc>
-    <lastmod>2018-11-18T16:45:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2018-11-18T16:45:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+    <loc>https://xorc.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://xorc.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-11-18T16:45:30+01:00</lastmod>
+    <loc>https://xorc.io/</loc>
+    <lastmod>2019-02-03T21:13:53+01:00</lastmod>
     <priority>0</priority>
   </url>
   

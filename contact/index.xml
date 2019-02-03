@@ -2,23 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ENGLISH Contact Us on Xorc.io - home of the Xray Orchestration Platform</title>
-    <link>/contact/</link>
+    <link>https://xorc.io/contact/</link>
     <description>Recent content in ENGLISH Contact Us on Xorc.io - home of the Xray Orchestration Platform</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Jul 2018 15:53:27 +0600</lastBuildDate>
     
-	<atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xorc.io/contact/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>FRANCAIS Contactez Nous</title>
-      <link>/contact/_index.fr/</link>
-      <pubDate>Sat, 07 Jul 2018 15:53:27 +0600</pubDate>
-      
-      <guid>/contact/_index.fr/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
