@@ -1,46 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://xorc.io/know_more/</loc>
+    <loc>https://xorc.tech/know_more/</loc>
     <lastmod>2019-02-03T10:27:14+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xorc.io/contact/</loc>
+  </url><url>
+    <loc>https://xorc.tech/</loc>
+    <lastmod>2019-02-03T21:13:53+01:00</lastmod>
+  </url><url>
+    <loc>https://xorc.tech/contact/</loc>
     <lastmod>2018-11-18T16:45:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xorc.io/about/</loc>
+  </url><url>
+    <loc>https://xorc.tech/about/</loc>
     <lastmod>2018-11-18T16:45:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xorc.io/know_more/know_more1/</loc>
+  </url><url>
+    <loc>https://xorc.tech/know_more/know_more1/</loc>
     <lastmod>2019-02-03T21:13:53+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xorc.io/know_more/know_more2/</loc>
+  </url><url>
+    <loc>https://xorc.tech/know_more/know_more2/</loc>
     <lastmod>2019-02-03T21:13:53+01:00</lastmod>
+  </url><url>
+    <loc>https://xorc.tech/categories/</loc>
+  </url><url>
+    <loc>https://xorc.tech/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://xorc.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xorc.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xorc.io/</loc>
-    <lastmod>2019-02-03T21:13:53+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
 </urlset>

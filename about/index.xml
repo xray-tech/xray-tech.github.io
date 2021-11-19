@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About Us ... on Xorc.io - home of the Xray Orchestration Platform</title>
-    <link>https://xorc.io/about/</link>
-    <description>Recent content in About Us ... on Xorc.io - home of the Xray Orchestration Platform</description>
+    <title>About Us ... on xorc.tech - home of the Xray Orchestration Platform</title>
+    <link>https://xorc.tech/about/</link>
+    <description>Recent content in About Us ... on xorc.tech - home of the Xray Orchestration Platform</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Jul 2018 12:37:52 +0600</lastBuildDate>
-    
-	<atom:link href="https://xorc.io/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 07 Jul 2018 12:37:52 +0600</lastBuildDate><atom:link href="https://xorc.tech/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
